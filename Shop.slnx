@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="Shop.Api/Shop.Api.csproj" />
-  <Project Path="Shop.Data/Shop.Data.csproj" />
-  <Project Path="Shop.Portal/Shop.Portal.csproj" />
-  <Project Path="Shop.Web/Shop.Web.csproj" />
-</Solution>

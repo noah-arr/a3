@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uni\\web dev tech\\a3-practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CA987D-CC69-F472-1F85-392B01C49CC2}|School.Api\\School.Api.csproj|d:\\uni\\web dev tech\\a3-practice\\school.api\\school.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0CA987D-CC69-F472-1F85-392B01C49CC2}|School.Api\\School.Api.csproj|solutionrelative:school.api\\school.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "School.Api",
+              "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Api\\School.Api.csproj",
+              "RelativeDocumentMoniker": "School.Api\\School.Api.csproj",
+              "ToolTip": "D:\\uni\\web dev tech\\a3-practice\\School.Api\\School.Api.csproj",
+              "RelativeToolTip": "School.Api\\School.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-19T04:58:29.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

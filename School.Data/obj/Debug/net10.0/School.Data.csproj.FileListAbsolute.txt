@@ -1,0 +1,13 @@
+D:\uni\web dev tech\a3-practice\School.Data\bin\Debug\net10.0\School.Data.deps.json
+D:\uni\web dev tech\a3-practice\School.Data\bin\Debug\net10.0\School.Data.dll
+D:\uni\web dev tech\a3-practice\School.Data\bin\Debug\net10.0\School.Data.pdb
+D:\uni\web dev tech\a3-practice\School.Data\obj\Debug\net10.0\School.Data.csproj.AssemblyReference.cache
+D:\uni\web dev tech\a3-practice\School.Data\obj\Debug\net10.0\School.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\web dev tech\a3-practice\School.Data\obj\Debug\net10.0\School.Data.AssemblyInfoInputs.cache
+D:\uni\web dev tech\a3-practice\School.Data\obj\Debug\net10.0\School.Data.AssemblyInfo.cs
+D:\uni\web dev tech\a3-practice\School.Data\obj\Debug\net10.0\School.Data.csproj.CoreCompileInputs.cache
+D:\uni\web dev tech\a3-practice\School.Data\obj\Debug\net10.0\School.Data.sourcelink.json
+D:\uni\web dev tech\a3-practice\School.Data\obj\Debug\net10.0\School.Data.dll
+D:\uni\web dev tech\a3-practice\School.Data\obj\Debug\net10.0\refint\School.Data.dll
+D:\uni\web dev tech\a3-practice\School.Data\obj\Debug\net10.0\School.Data.pdb
+D:\uni\web dev tech\a3-practice\School.Data\obj\Debug\net10.0\ref\School.Data.dll

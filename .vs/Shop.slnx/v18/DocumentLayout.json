@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\uni\\web dev tech\\a3-practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA4F80DD-ABFD-9AF6-897F-08D704A40234}|Shop.Data\\Shop.Data.csproj|d:\\uni\\web dev tech\\a3-practice\\shop.data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA4F80DD-ABFD-9AF6-897F-08D704A40234}|Shop.Data\\Shop.Data.csproj|solutionrelative:shop.data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FA4F80DD-ABFD-9AF6-897F-08D704A40234}|Shop.Data\\Shop.Data.csproj|d:\\uni\\web dev tech\\a3-practice\\shop.data\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA4F80DD-ABFD-9AF6-897F-08D704A40234}|Shop.Data\\Shop.Data.csproj|solutionrelative:shop.data\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4F80DD-ABFD-9AF6-897F-08D704A40234}|Shop.Data\\Shop.Data.csproj|d:\\uni\\web dev tech\\a3-practice\\shop.data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4F80DD-ABFD-9AF6-897F-08D704A40234}|Shop.Data\\Shop.Data.csproj|solutionrelative:shop.data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\Shop.Data\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Shop.Data\\Models\\Product.cs",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Member.cs",
               "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\Shop.Data\\Models\\Member.cs",
               "RelativeDocumentMoniker": "Shop.Data\\Models\\Member.cs",
