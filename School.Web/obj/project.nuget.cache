@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WNCOxS3zG8k=",
+  "dgSpecHash": "RD4bzmJzZ2M=",
   "success": true,
   "projectFilePath": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\School.Web.csproj",
   "expectedPackageFiles": [
@@ -50,33 +50,8 @@
     "C:\\Users\\noah arrowsmith\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.11\\system.configuration.configurationmanager.9.0.11.nupkg.sha512",
     "C:\\Users\\noah arrowsmith\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.7.1\\system.identitymodel.tokens.jwt.7.7.1.nupkg.sha512",
     "C:\\Users\\noah arrowsmith\\.nuget\\packages\\system.memory.data\\8.0.1\\system.memory.data.8.0.1.nupkg.sha512",
-    "C:\\Users\\noah arrowsmith\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.11\\system.security.cryptography.pkcs.9.0.11.nupkg.sha512",
+    "C:\\Users\\noah arrowsmith\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.21\\system.security.cryptography.pkcs.9.0.21.nupkg.sha512",
     "C:\\Users\\noah arrowsmith\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.11\\system.security.cryptography.protecteddata.9.0.11.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "message": "Package 'System.Security.Cryptography.Pkcs' 9.0.11 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-2fmv-rv2c-59x7",
-      "projectPath": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\School.Web.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\School.Web.csproj",
-      "libraryId": "System.Security.Cryptography.Pkcs",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "message": "Package 'System.Security.Cryptography.Pkcs' 9.0.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-846f-f764-76mx",
-      "projectPath": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\School.Web.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\School.Web.csproj",
-      "libraryId": "System.Security.Cryptography.Pkcs",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    }
-  ]
+  "logs": []
 }

@@ -39,3 +39,7 @@ dotnet add Shop.Web package Microsoft.EntityFrameworkCore.Design
 # Install SimpleHashing package to the Web layer
 dotnet add Shop.Web package SimpleHashing.Net
 ```
+
+### 4. database stuffs
+dotnet ef migrations add InitialCreate --project School.Data --startup-project School.Web
+dotnet ef database update --project School.Data --startup-project School.Web
