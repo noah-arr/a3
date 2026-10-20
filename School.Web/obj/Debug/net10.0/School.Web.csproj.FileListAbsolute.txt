@@ -233,3 +233,4 @@ D:\uni\web dev tech\a3-practice\School.Web\obj\Debug\net10.0\refint\School.Web.d
 D:\uni\web dev tech\a3-practice\School.Web\obj\Debug\net10.0\School.Web.pdb
 D:\uni\web dev tech\a3-practice\School.Web\obj\Debug\net10.0\School.Web.genruntimeconfig.cache
 D:\uni\web dev tech\a3-practice\School.Web\obj\Debug\net10.0\ref\School.Web.dll
+D:\uni\web dev tech\a3-practice\School.Web\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

@@ -11,6 +11,8 @@
 		<th>Title</th>
 		<th>Credits</th>
 		<th>Department</th>
+		<th>Students Enrolled</th>
+		<th>Edit</th>
 	</tr>
 	@foreach (var course in Model)
 	{
@@ -19,6 +21,24 @@
 			<td>@course.Title</td>
 			<td>@course.Credits</td>
 			<td>@course.Department?.Name</td>
+			<td>
+				@if (course.Enrollments.Any())
+				{
+					<ul>
+						@foreach (var e in course.Enrollments)
+						{
+							<li>@e.Student.FullName</li>
+						}
+					</ul>
+				}
+				else
+				{
+					<span>No Students Enrolled.</span>
+				}
+			</td>
+			<td>
+				<a class="btn btn-primary" asp-action="Edit" asp-route-id="@course.CourseId">Edit</a>
+			</td>
 		</tr>
 	}
 </table>

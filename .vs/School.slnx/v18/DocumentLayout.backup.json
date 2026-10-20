@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "D:\\uni\\web dev tech\\a3-practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|d:\\uni\\web dev tech\\a3-practice\\school.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|solutionrelative:school.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|d:\\uni\\web dev tech\\a3-practice\\school.web\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|solutionrelative:school.web\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|d:\\uni\\web dev tech\\a3-practice\\school.web\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|solutionrelative:school.web\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|d:\\uni\\web dev tech\\a3-practice\\school.web\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|solutionrelative:school.web\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|d:\\uni\\web dev tech\\a3-practice\\school.web\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|solutionrelative:school.web\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|d:\\uni\\web dev tech\\a3-practice\\school.web\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|solutionrelative:school.web\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|d:\\uni\\web dev tech\\a3-practice\\school.web\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|solutionrelative:school.web\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|d:\\uni\\web dev tech\\a3-practice\\school.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|solutionrelative:school.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|d:\\uni\\web dev tech\\a3-practice\\school.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|solutionrelative:school.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|d:\\uni\\web dev tech\\a3-practice\\school.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|solutionrelative:school.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|d:\\uni\\web dev tech\\a3-practice\\school.web\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|solutionrelative:school.web\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0742086C-E2DA-F7E8-2AAB-ADBF285039A2}|School.Web\\School.Web.csproj|d:\\uni\\web dev tech\\a3-practice\\school.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,16 +67,8 @@
       "RelativeMoniker": "D:0:0:{2BE8F369-A574-FEC6-4734-B097AAD7B583}|School.Data\\School.Data.csproj|solutionrelative:school.data\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BE8F369-A574-FEC6-4734-B097AAD7B583}|School.Data\\School.Data.csproj|d:\\uni\\web dev tech\\a3-practice\\school.data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BE8F369-A574-FEC6-4734-B097AAD7B583}|School.Data\\School.Data.csproj|solutionrelative:school.data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2BE8F369-A574-FEC6-4734-B097AAD7B583}|School.Data\\School.Data.csproj|d:\\uni\\web dev tech\\a3-practice\\school.data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BE8F369-A574-FEC6-4734-B097AAD7B583}|School.Data\\School.Data.csproj|solutionrelative:school.data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BE8F369-A574-FEC6-4734-B097AAD7B583}|School.Data\\School.Data.csproj|d:\\uni\\web dev tech\\a3-practice\\school.data\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BE8F369-A574-FEC6-4734-B097AAD7B583}|School.Data\\School.Data.csproj|solutionrelative:school.data\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,43 +78,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "School.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "School.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABwAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\Views\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "School.Web\\Views\\Courses\\Edit.cshtml",
+              "ToolTip": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\Views\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "School.Web\\Views\\Courses\\Edit.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBMAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-20T03:02:56.429Z",
+              "WhenOpened": "2026-10-20T23:04:46.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\Views\\Instructor\\Index.cshtml",
+              "RelativeDocumentMoniker": "School.Web\\Views\\Instructor\\Index.cshtml",
+              "ToolTip": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\Views\\Instructor\\Index.cshtml",
+              "RelativeToolTip": "School.Web\\Views\\Instructor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T22:09:25.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\Views\\Courses\\Index.cshtml",
               "RelativeDocumentMoniker": "School.Web\\Views\\Courses\\Index.cshtml",
               "ToolTip": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\Views\\Courses\\Index.cshtml",
               "RelativeToolTip": "School.Web\\Views\\Courses\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-20T02:58:48.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "School.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "School.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-20T03:02:56.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "School.Web\\Controllers\\CoursesController.cs",
               "ToolTip": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\Controllers\\CoursesController.cs",
               "RelativeToolTip": "School.Web\\Controllers\\CoursesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-20T02:52:17.6Z",
               "EditorCaption": ""
@@ -123,14 +153,14 @@
               "RelativeDocumentMoniker": "School.Web\\Controllers\\InstructorController.cs",
               "ToolTip": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\Controllers\\InstructorController.cs",
               "RelativeToolTip": "School.Web\\Controllers\\InstructorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-20T02:51:57.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\appsettings.json",
               "RelativeDocumentMoniker": "School.Web\\appsettings.json",
@@ -138,12 +168,11 @@
               "RelativeToolTip": "School.Web\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-20T02:41:25.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T02:41:25.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\Program.cs",
               "RelativeDocumentMoniker": "School.Web\\Program.cs",
@@ -151,12 +180,11 @@
               "RelativeToolTip": "School.Web\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T02:37:36.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T02:37:36.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "SeedData.cs",
               "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\Data\\SeedData.cs",
               "RelativeDocumentMoniker": "School.Web\\Data\\SeedData.cs",
@@ -164,12 +192,24 @@
               "RelativeToolTip": "School.Web\\Data\\SeedData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T06:23:39.313Z",
+              "WhenOpened": "2026-10-19T06:23:39.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "School.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\uni\\web dev tech\\a3-practice\\School.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "School.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T22:07:54.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "SchoolContext.cs",
               "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Data\\Data\\SchoolContext.cs",
               "RelativeDocumentMoniker": "School.Data\\Data\\SchoolContext.cs",
@@ -177,12 +217,11 @@
               "RelativeToolTip": "School.Data\\Data\\SchoolContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T06:19:25.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T06:19:25.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Data\\Models\\Student.cs",
               "RelativeDocumentMoniker": "School.Data\\Models\\Student.cs",
@@ -190,25 +229,11 @@
               "RelativeToolTip": "School.Data\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T05:37:13.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T05:37:13.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Instructor.cs",
-              "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Data\\Models\\Instructor.cs",
-              "RelativeDocumentMoniker": "School.Data\\Models\\Instructor.cs",
-              "ToolTip": "D:\\uni\\web dev tech\\a3-practice\\School.Data\\Models\\Instructor.cs",
-              "RelativeToolTip": "School.Data\\Models\\Instructor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T06:00:29.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Data\\Models\\Department.cs",
               "RelativeDocumentMoniker": "School.Data\\Models\\Department.cs",
@@ -216,12 +241,11 @@
               "RelativeToolTip": "School.Data\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T05:59:55.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T05:59:55.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Data\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "School.Data\\Models\\Enrollment.cs",
@@ -229,25 +253,11 @@
               "RelativeToolTip": "School.Data\\Models\\Enrollment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T05:40:02.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T05:40:02.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Data\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "School.Data\\Models\\Course.cs",
-              "ToolTip": "D:\\uni\\web dev tech\\a3-practice\\School.Data\\Models\\Course.cs",
-              "RelativeToolTip": "School.Data\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T05:16:58.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "CourseAssignment.cs",
               "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Data\\Models\\CourseAssignment.cs",
               "RelativeDocumentMoniker": "School.Data\\Models\\CourseAssignment.cs",
@@ -255,12 +265,11 @@
               "RelativeToolTip": "School.Data\\Models\\CourseAssignment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T05:15:46.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T05:15:46.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "OfficeAssignment.cs",
               "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Data\\Models\\OfficeAssignment.cs",
               "RelativeDocumentMoniker": "School.Data\\Models\\OfficeAssignment.cs",
@@ -268,12 +277,11 @@
               "RelativeToolTip": "School.Data\\Models\\OfficeAssignment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T04:59:48.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T04:59:48.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "School.Api.csproj",
               "DocumentMoniker": "D:\\uni\\web dev tech\\a3-practice\\School.Api\\School.Api.csproj",
               "RelativeDocumentMoniker": "School.Api\\School.Api.csproj",
@@ -281,8 +289,7 @@
               "RelativeToolTip": "School.Api\\School.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-19T04:58:29.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T04:58:29.058Z"
             }
           ]
         }

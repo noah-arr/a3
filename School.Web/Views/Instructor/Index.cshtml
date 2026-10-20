@@ -1,0 +1,38 @@
+﻿@model List<School.Data.Models.Instructor>
+@{
+	ViewData["Title"] = "Instructor";
+}
+
+<h1>Instructors</h1>
+
+<table class="table">
+	<tr>
+		<th>Id</th>
+		<th>Name</th>
+		<th>Hire Date</th>
+		<th>Courses Taught</th>
+	</tr>
+	@foreach (var instructor in Model)
+	{
+		<tr>
+			<td>@instructor.Id</td>
+			<td>@instructor.FullName</td>
+			<td>@instructor.HireDate.ToString("yyyy-MM-dd")</td>
+			<td>
+				@if (instructor.CourseAssignments.Any())
+				{
+					<ul>
+						@foreach (var a in instructor.CourseAssignments)
+						{
+							<li>@a.Course.Title</li>
+						}
+					</ul>
+				}
+				else
+				{
+					<span>No Courses</span>
+				}
+			</td>
+		</tr>
+	}
+</table>
