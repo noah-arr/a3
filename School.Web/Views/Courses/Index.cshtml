@@ -1,4 +1,4 @@
-﻿@model List<School.Data.Models.Course>
+﻿@model School.Web.Models.PaginatedList<School.Data.Models.Course>
 @{
 	ViewData["Title"] = "Courses";
 }
@@ -42,3 +42,13 @@
 		</tr>
 	}
 </table>
+
+<div>
+	<a asp-action="Index" asp-route-page="@(Model.PageIndex - 1)"
+	   class="btn btn-outline-primary @(Model.HasPrevPage ? "" : "disabled")">Previous</a>
+
+	<span class="mx-2">Page @Model.PageIndex of @Model.TotalPages</span>
+
+	<a asp-action="Index" asp-route-page="@(Model.PageIndex + 1)"
+	   class="btn btn-outline-primary @(Model.HasNextPage ? "" : "disabled")">Next</a>
+</div>

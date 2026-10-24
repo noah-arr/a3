@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using School.Data.Data;
 using School.Data.Models;
+using School.Web.Models;
 
 namespace School.Web.Controllers;
 
@@ -13,10 +14,12 @@ public class CoursesController : Controller
     {
         _context = context;
     }
-    public async Task<IActionResult> Index()
+    public async Task<IActionResult> Index(int page = 1)
     {
-        var courses = await _context.Courses.Include(c => c.Department).Include(c => c.Enrollments).ThenInclude(s => s.Student).OrderBy(c => c.Title).ToListAsync();
-        return View(courses);
+        const int pageSize = 4;
+
+        var courses = _context.Courses.Include(c => c.Department).Include(c => c.Enrollments).ThenInclude(s => s.Student).OrderBy(c => c.Title);
+        return View(await PaginatedList<Course>.CreateAsync(courses, page, pageSize));
     }
 
     public async Task<IActionResult> Edit(int? id) // get

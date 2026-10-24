@@ -1,4 +1,4 @@
-﻿@model List<School.Data.Models.Instructor>
+﻿@model School.Web.Models.PaginatedList<School.Data.Models.Instructor>
 @{
 	ViewData["Title"] = "Instructor";
 }
@@ -11,6 +11,7 @@
 		<th>Name</th>
 		<th>Hire Date</th>
 		<th>Courses Taught</th>
+		<th>Edit</th>
 	</tr>
 	@foreach (var instructor in Model)
 	{
@@ -33,6 +34,19 @@
 					<span>No Courses</span>
 				}
 			</td>
+			<td>
+				<a class="btn btn-primary" asp-action="Edit" asp-route-id="@instructor.Id">Edit</a>
+			</td>
 		</tr>
 	}
 </table>
+
+<div>
+	<a asp-action="Index" asp-route-page="@(Model.PageIndex - 1)"
+	   class="btn btn-outline-primary @(Model.HasPrevPage ? "" : "disabled")">Previous</a>
+
+	<span class="mx-2">Page @Model.PageIndex of @Model.TotalPages</span>
+
+	<a asp-action="Index" asp-route-page="@(Model.PageIndex + 1)"
+	   class="btn btn-outline-primary @(Model.HasNextPage ? "" : "disabled")">Next</a>
+</div>
