@@ -1,0 +1,37 @@
+﻿@model School.Data.Models.Instructor
+@{
+    ViewData["Title"] = "Instructor Details";
+}
+
+<h1>@Model.FullName</h1>
+
+<dl class="row">
+    <dt class="col-sm-3">Instructor ID</dt>
+    <dd class="col-sm-9">@Model.Id</dd>
+
+    <dt class="col-sm-3">Hire Date</dt>
+    <dd class="col-sm-9">@Model.HireDate.ToString("yyyy-MM-dd")</dd>
+
+    <dt class="col-sm-3">Office</dt>
+    <dd class="col-sm-9">@(Model.OfficeAssignment?.Location ?? "No office assigned")</dd>
+
+    <dt class="col-sm-3">Courses Taught</dt>
+    <dd class="col-sm-9">
+        @if (Model.CourseAssignments?.Any() == true)
+        {
+            <ul class="mb-0">
+                @foreach (var assignment in Model.CourseAssignments)
+                {
+                    <li>@assignment.Course?.Title (@assignment.Course?.Credits credits)</li>
+                }
+            </ul>
+        }
+        else
+        {
+            <span>No courses assigned</span>
+        }
+    </dd>
+</dl>
+
+<a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+<a asp-action="Index">Back to Instructors</a>

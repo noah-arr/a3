@@ -14,7 +14,7 @@ public class InstructorRepository : IInstructorRepository
     }
 
     public async Task<List<Instructor>> GetAllAsync() => await _context.Instructors.Include(i => i.CourseAssignments).ThenInclude(ca => ca.Course).OrderBy(i => i.LastName).ToListAsync();
-    public async Task<Instructor> GetByIdAsync(int id) => await _context.Instructors.Include(i => i.CourseAssignments).ThenInclude(ca => ca.Course).FirstOrDefaultAsync(i => i.Id == id);
+    public async Task<Instructor> GetByIdAsync(int id) => await _context.Instructors.Include(i => i.OfficeAssignment).Include(i => i.CourseAssignments).ThenInclude(ca => ca.Course).FirstOrDefaultAsync(i => i.Id == id);
     public async Task<bool> UpdateAsync(int id, Instructor model)
     {
         var instructor = await _context.Instructors.FindAsync(id);

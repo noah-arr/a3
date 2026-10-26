@@ -1,0 +1,19 @@
+﻿@model School.Data.Models.Course
+@{
+    ViewData["Title"] = "Course Details";
+}
+
+<h1>@Model.Title</h1>
+
+<dl class="row">
+    <dt class="col-sm-3">Course ID</dt>
+    <dd class="col-sm-9">@Model.CourseId</dd>
+
+    <dt class="col-sm-3">Credits</dt>
+    <dd class="col-sm-9">@Model.Credits</dd>
+
+    <dt class="col-sm-3">Department</dt>
+    <dd class="col-sm-9">@Model.Department?.Name</dd>
+</dl>
+
+<a asp-action="Index">Back to Courses</a>

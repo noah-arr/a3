@@ -148,3 +148,4 @@ D:\uni\web dev tech\a3-practice\School.Portal\obj\Debug\net10.0\refint\School.Po
 D:\uni\web dev tech\a3-practice\School.Portal\obj\Debug\net10.0\School.Portal.pdb
 D:\uni\web dev tech\a3-practice\School.Portal\obj\Debug\net10.0\School.Portal.genruntimeconfig.cache
 D:\uni\web dev tech\a3-practice\School.Portal\obj\Debug\net10.0\ref\School.Portal.dll
+D:\uni\web dev tech\a3-practice\School.Portal\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
